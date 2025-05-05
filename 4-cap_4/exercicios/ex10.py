@@ -7,7 +7,7 @@
 #? Exiba a mensagem: Os três elementos que ficam no meio da lista são: Depois, use uma fatia para exibir os três elementos do meio da lista.
 #? Exiba a mensagem: Os três últimos elementos da lista são: Em seguida, utilize uma fatia para exibir os três últimos elementos da lista.
 
-pizza_tastes = ['bacon', 'calabresa', 'napolitana', 'marguerita', '4 queijos',]
+pizza_tastes = ['bacon', 'calabresa', 'napolitana', 'marguerita', '4 queijos']
 
 print('Os tres primeiros elementos da lista são:')
 print(pizza_tastes[:3])
